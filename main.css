@@ -15,9 +15,15 @@ body {
 
 #mainText {
     margin-top: 30vh;
+    text-decoration: underline;
+
 }
 
 #intro {
+    margin-top: 50px;
+}
+
+.introContainer {
     margin-top: 50px;
 }
 
@@ -27,4 +33,8 @@ body {
 
 #p1 {
     height: 350px;
+}
+
+b {
+    color: rgba(255, 255, 255, 0.5);
 }
