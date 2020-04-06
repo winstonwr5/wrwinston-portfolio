@@ -27,6 +27,11 @@ body {
     margin-top: 50px;
 }
 
+.resume-link {
+    color: white;
+    text-decoration: underline;
+}
+
 #work {
     background-color: rgb(61, 61, 61);
 }
